@@ -25,8 +25,11 @@ To sum up:
 
 You start with a common 5+12V AC/DC adapter that you would use to power an external hard drive, such as this:
 
-![External HDD power supply with 5V, 12V and a molex connector](./img/adapter.jpg]
+![External HDD power supply with 5V, 12V and a molex connector](./img/adapter.jpg)
 
+and you want a box that does this:
+
+[IMAGE GOING TO HAPPEN HERE]
 
 
 [1]: http://www.cpcwiki.eu/index.php/CPC_old_generation
